@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Create your views here.
-consumer_key = 	"ZtHWuNfHCWV3XqmFSuXv0FyKn"
-consumer_secret = "gmgepICbMUVtnmePAa6ibcr93r89b7zzx72wfCWhonyJlbbWm7"
-access_token = "151769085-yx4BQMhM3rrRnZ7B7pnWcXwVIBu2uXwx8AD3vigc"
-access_token_secret = "r969t4xTfgLigwD1oh1JHkv91ArYUMNmry7MDnGyEsKOk"
+consumer_key = 	"#Enter your Consumer Key"
+consumer_secret = "#Enter your Consumer Secret"
+access_token = "#Enter Access Key"
+access_token_secret = "#Enter Access Secret"
 
 
 datasets = pd.read_csv('C:\\Users\\HP\\Desktop\\Edited.csv', encoding='latin-1', header=None)
